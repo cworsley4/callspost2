@@ -1,0 +1,23 @@
+{
+  "name": "quick",
+  "version": "0.0.1",
+  "description": "Maps IVRs by utilizing web services to call and transcribe phones calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cworsley4/quick.git"
+  },
+  "author": "Cecil Worsley <cecilworsley4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cworsley4/quick/issues"
+  },
+  "homepage": "https://github.com/cworsley4/quick#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "express": "^4.13.1"
+  }
+}
