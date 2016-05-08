@@ -1,4 +1,5 @@
 # callspost2 api*
+[![Code Climate](https://codeclimate.com/github/cworsley4/callspost2/badges/gpa.svg)](https://codeclimate.com/github/cworsley4/callspost2)
 
 ###### Status - WIP
 ###### Last Updated - 5/8/16
