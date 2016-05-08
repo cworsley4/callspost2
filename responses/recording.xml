@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Record 
-    action="http://08d2e07d.ngrok.io/call/recording"
+    action="http://af87a4d1.ngrok.io/call/recording"
     method="POST" 
     timeout="10" 
     transcribe="false" />

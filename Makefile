@@ -1,2 +1,4 @@
 server-local:
-	DEBUG=app* PORT=3005 node .
+	echo "Exporting env vars for app to session might be a bad call. Dev only."
+	source "./bin/env-vars.sh"
+	node .
